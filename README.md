@@ -1,6 +1,12 @@
 # music_classificator
 Music classificator with pytorch.
 
+Clone the repo:
+
+```
+git clone https://github.com/jvaleroliet/music_classificator.git
+```
+
 ## 1. Data Collection
 
 
@@ -31,7 +37,9 @@ songs/
     └── ...
 ```
 
-You can try with your own data if you structure the folders like this.
+You need a [spotify api](https://developer.spotify.com/documentation/web-api) secret and client. 
+
+You can try with your own data if you structure the folders like this and go directly to the second notebook.
 
 ## Model
 
