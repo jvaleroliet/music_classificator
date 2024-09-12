@@ -1,9 +1,11 @@
-# Genre Music Classificator
+
 <p align='center'>
 <a href="https://img.shields.io/badge/-pytorch-lightgray?logo=pytorch"><img src="https://img.shields.io/badge/-pytorch-lightgray?logo=pytorch"/></a>
 <a href="https://img.shields.io/badge/-torchaudio-yellow?logo=pytorch"><img src="https://img.shields.io/badge/-torchaudio-yellow?logo=pytorch" /></a>
 <a href="https://img.shields.io/badge/-torchvision-blue?logo=pytorch"><img src="https://img.shields.io/badge/-torchvision-blue?logo=pytorch"/></a>
 </p>
+
+# EDM Music Classificator
 
 Music classificator for main EDM genres made with pytorch.
 
