@@ -56,7 +56,7 @@ You can try with your own data if you structure the folders like this and go dir
 
 After the songs are downloaded, the second jupyter will split the data into train and test folders. Then, each song will be splitted into 10 clips of 3 seconds. As in computer programmed music 3s clips of the same song can be almost identical, every songs clips remain in either train or either test. Then the train will be splitted into evaluation and train during the Dataloaders construction.
 
-## Model
+## Models
 
 ### 1. Finetune Resnet18
 The first approach is to finetune resnet18 mode, used to classify images, from the clip's spectrograms. The mel spectrogram is a greyscale image in only one channel, so for each one it will be repeated in 3 channels.
