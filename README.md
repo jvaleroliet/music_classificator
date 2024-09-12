@@ -1,8 +1,7 @@
 # EDM Music Classificator
 
 <p align='center'>
-    
-<a href="**https://img.shields.io/badge/-pytorch-lightgray?logo=pytorch**"><img src="https://img.shields.io/badge/huggingface-app-yellow?logo=huggingface&logoColor=f5f5f5"/></a>
+<a href="https://img.shields.io/badge/-pytorch-lightgray?logo=pytorch**"><img src="https://img.shields.io/badge/huggingface-app-yellow?logo=huggingface&logoColor=f5f5f5"/></a><br/><br/>
 <a href="https://img.shields.io/badge/-pytorch-lightgray?logo=pytorch"><img src="https://img.shields.io/badge/-pytorch-lightgray?logo=pytorch"/></a>
 <a href="https://img.shields.io/badge/-torchaudio-yellow?logo=pytorch"><img src="https://img.shields.io/badge/-torchaudio-yellow?logo=pytorch" /></a>
 <a href="https://img.shields.io/badge/-torchvision-blue?logo=pytorch"><img src="https://img.shields.io/badge/-torchvision-blue?logo=pytorch"/></a>
